@@ -1,0 +1,6 @@
+XXXX#include <stdio.h>
+
+int main() {
+    printf("Kamal Abdi\n");
+    return 0;
+}
